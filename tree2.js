@@ -111,4 +111,4 @@ function inOrder(root) {
   console.log(root.val);
   inOrder(root.right);
 }
-inOrder(a);
+// inOrder(a);
